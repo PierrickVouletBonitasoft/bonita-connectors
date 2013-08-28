@@ -3,7 +3,7 @@
 	<groupId>org.bonitasoft.connectors</groupId>
 	<artifactId>bonita-connectors</artifactId>
 	<packaging>pom</packaging>
-	<version>6.0.2-SNAPSHOT</version>
+	<version>6.0.3-SNAPSHOT</version>
 	<name>Bonita Connectors</name>
 
 	<properties>
@@ -11,7 +11,7 @@
 		<sonar.core.codeCoveragePlugin>jacoco</sonar.core.codeCoveragePlugin>
 		<sonar.dynamicAnalysis>reuseReports</sonar.dynamicAnalysis>
 		<sonar.jacoco.reportPath>${jacoco.file}</sonar.jacoco.reportPath>
-        <bonita.engine.version>6.0.1</bonita.engine.version>
+        <bonita.engine.version>6.0.3-rc-01</bonita.engine.version>
     </properties>
 
 	<organization>
